@@ -1,0 +1,39 @@
+{
+  "devices": [
+    {
+      "ip_address": "192.168.1.102",
+      "hostname": "Server-Paris",
+      "snmp_port": 16102,
+      "uptime_base": "45 days",
+      "cpu_base": 12
+    },
+    {
+      "ip_address": "192.168.1.118",
+      "hostname": "Server-Berlin",
+      "snmp_port": 16103,
+      "uptime_base": "8 days",
+      "cpu_base": 45
+    },
+    {
+      "ip_address": "192.168.1.134",
+      "hostname": "Server-London",
+      "snmp_port": 16104,
+      "uptime_base": "124 days",
+      "cpu_base": 22
+    },
+    {
+      "ip_address": "192.168.1.150",
+      "hostname": "Server-Rome",
+      "snmp_port": 16105,
+      "uptime_base": "3 hours",
+      "cpu_base": 58
+    },
+    {
+      "ip_address": "192.168.1.166",
+      "hostname": "Server-Madrid",
+      "snmp_port": 16106,
+      "uptime_base": "19 days",
+      "cpu_base": 31
+    }
+  ]
+}
