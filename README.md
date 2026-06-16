@@ -21,6 +21,18 @@ Optional: `python -m sim.traffic_generator` prints a short sample of generated r
 
 ---
 
+## Requirements
+
+- **Python 3.9+**
+- Python packages listed in **`requirements.txt`** (Streamlit, Pandas, Matplotlib)
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+```
+---
+
 ## Repository layout
 
 ```
@@ -43,20 +55,6 @@ NetGuard-Suite/
 <img width="530" height="268" alt="image" src="https://github.com/user-attachments/assets/7f496bc5-8c5c-451c-ae2a-36595ec6327b" />
 <img width="582" height="304" alt="image" src="https://github.com/user-attachments/assets/b39c8bce-8edf-4ef7-ac2e-2bedb70f7649" />
 <img width="602" height="318" alt="image" src="https://github.com/user-attachments/assets/947e559b-a8fe-48fa-9f7c-6c814b7a8100" />
-
-
----
-
-## Requirements
-
-- **Python 3.9+**
-- Python packages listed in **`requirements.txt`** (Streamlit, Pandas, Matplotlib)
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
 
 ---
 
