@@ -42,7 +42,8 @@ NetGuard-Suite/
 ## Traffic randomly created:
 <img width="530" height="268" alt="image" src="https://github.com/user-attachments/assets/7f496bc5-8c5c-451c-ae2a-36595ec6327b" />
 <img width="582" height="304" alt="image" src="https://github.com/user-attachments/assets/b39c8bce-8edf-4ef7-ac2e-2bedb70f7649" />
-<img width="560" height="242" alt="image" src="https://github.com/user-attachments/assets/ff887a83-d88f-4289-9e0b-5be59aa0046a" />
+<img width="602" height="318" alt="image" src="https://github.com/user-attachments/assets/947e559b-a8fe-48fa-9f7c-6c814b7a8100" />
+
 
 ---
 
