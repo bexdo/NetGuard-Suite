@@ -43,6 +43,12 @@ NetGuard-Suite/
 │   └── traffic_generator.py  # generate_synthetic_flows()
 └── README.md
 ```
+---
+
+## Traffic randomly created:
+<img width="530" height="268" alt="image" src="https://github.com/user-attachments/assets/7f496bc5-8c5c-451c-ae2a-36595ec6327b" />
+<img width="582" height="304" alt="image" src="https://github.com/user-attachments/assets/b39c8bce-8edf-4ef7-ac2e-2bedb70f7649" />
+<img width="560" height="242" alt="image" src="https://github.com/user-attachments/assets/ff887a83-d88f-4289-9e0b-5be59aa0046a" />
 
 ---
 
@@ -90,4 +96,9 @@ Top-level object with a **`devices`** array. Each entry typically includes:
 - **ICMP rows** mimic ping-style summaries (fixed typical length); **Dst_Port** is omitted — ICMP has no TCP/UDP port.
 
 ---
+
+<img width="2940" height="1606" alt="image" src="https://github.com/user-attachments/assets/f478c60c-ff65-4db0-92ae-99ea07a45bbb" />
+<img width="2850" height="1520" alt="image" src="https://github.com/user-attachments/assets/472b094a-6d5b-4b98-8700-cac57fce39dc" />
+
+
 
