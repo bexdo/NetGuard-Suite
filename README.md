@@ -6,12 +6,6 @@ A **Streamlit dashboard** loads an inventory from **`devices.json`**, runs a **s
 
 ---
 
-## For teachers (student brief, no solution)
-
-A printable **project specification in Italian** (requirements only, no sample code) is in **`docs/Brief_Progetto_NetGuard_Studenti.pdf`**. **Architecture** (classes, methods, dashboard, Streamlit / TCP-UDP-ICMP / **SNMP** primers) is in **`docs/NetGuard_Suite_Architecture.pdf`** (English). To rebuild either PDF, see **`docs/README.md`**.
-
----
-
 ## What this project does
 
 | Area | Description |
@@ -97,7 +91,7 @@ Top-level object with a **`devices`** array. Each entry typically includes:
 
 ---
 
-<img width="2940" height="1606" alt="image" src="https://github.com/user-attachments/assets/f478c60c-ff65-4db0-92ae-99ea07a45bbb" />
+<img width="2858" height="1340" alt="image" src="https://github.com/user-attachments/assets/277e53d3-fff9-4a37-8104-e824b3ab52e4" />
 <img width="2850" height="1520" alt="image" src="https://github.com/user-attachments/assets/472b094a-6d5b-4b98-8700-cac57fce39dc" />
 
 
